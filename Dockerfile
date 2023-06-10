@@ -10,7 +10,7 @@
 #                                                                              #
 # **************************************************************************** #
 
-FROM debian:buster
+FROM debian:bullseye-20230502
 
 LABEL maintainer="Otavio Avelar <oavelar@student.42lisboa.com>"
 
